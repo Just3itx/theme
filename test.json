@@ -7,24 +7,24 @@
 	}],
 	"theme_color_map": {
 		"HEADER_PRIMARY": [
-			"#edd49b",
-			"#edd49b"
+			"#5c86a7",
+			"#5c86a7"
 		],
 		"HEADER_SECONDARY": [
-			"#d8c28f",
-			"#d8c28f"
+			"#ddf0e4",
+			"#ddf0e4"
 		],
 		"TEXT_NORMAL": [
-			"#c8c8c8",
-			"#c8c8c8"
+			"#b2c7c6",
+			"#b2c7c6"
 		],
 		"TEXT_MUTED": [
-			"#C8B68E",
-			"#C8B68E"
+			"#7478d1",
+			"#7478d1"
 		],
 		"INTERACTIVE_NORMAL": [
-			"#d8c28f",
-			"#d8c28f"
+			"#b2c7c6",
+			"#b2c7c6"
 		],
 		"INTERACTIVE_HOVER": [
 			"#d8c28f",
