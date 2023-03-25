@@ -9,16 +9,16 @@
     ],
     "theme_color_map": {
         "HEADER_PRIMARY": [
-            "#c8c8c8",
-            "#c8c8c8"
+            "#adadad",
+            "#adadad"
         ],
         "HEADER_SECONDARY": [
             "#bfbfbf",
             "#bfbfbf"
         ],
         "TEXT_NORMAL": [
-            "#c8c8c8",
-            "#c8c8c8"
+            "#919090",
+            "#919090"
         ],
         "TEXT_MUTED": [
             "#C8B68E",
