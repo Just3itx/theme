@@ -49,8 +49,8 @@
             "#89898b"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#cbcbcb",
-            "#cbcbcb"
+            "#636363",
+            "#636363"
         ],
         "BACKGROUND_TERTIARY": [
             "#cacaca",
@@ -73,8 +73,8 @@
             "#c8c8c8"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#c8c8c8",
-            "#c8c8c8"
+            "#636363",
+            "#636363"
         ],
         "BACKGROUND_MENTIONED": [
             "#5A5172",
